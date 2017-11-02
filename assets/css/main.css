@@ -1,2 +1,9 @@
+img {
+  width: 100%;
+  display: flex; }
+
+.display-1 {
+  color: #ccc;
+  text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
