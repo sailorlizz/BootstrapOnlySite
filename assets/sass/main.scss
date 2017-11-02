@@ -6,4 +6,37 @@ img{
 .display-1{
 	color: #ccc;
 	text-align:center;
+	padding-top:20px;
+}
+
+p{
+	float:left;
+	margin-left:90px;
+	padding-top:10px;
+	padding-bottom:50px;  
+}
+
+.col-4{
+	float:left;
+	text-align:center;
+}
+
+.col-3{
+	float:left; 
+}
+
+
+img .col-3{
+	justify-content: flex-start;
+}
+
+h1{
+	padding:20px;
+}
+
+.col-12{
+	height:100px;
+	float:left;
+	padding:10px; 
+	margin:10px;
 }
