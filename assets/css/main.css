@@ -85,4 +85,16 @@ h1 {
   .copy button {
     margin-top: 20px; }
 
+.address {
+  width: 500px;
+  float: left; }
+
+.address2 {
+  float: left;
+  margin-left: 20px;
+  padding: -2px; }
+
+.nameoncard {
+  margin-left: 20px; }
+
 /*# sourceMappingURL=main.css.map */
