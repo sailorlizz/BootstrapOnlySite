@@ -125,6 +125,11 @@ h1{
 
 }
 
+.form-group{
+	width:33%;
+	margin-left:20px;
+}
+
 .address{
  	width:500px;
  	float:left;
@@ -135,11 +140,23 @@ h1{
  	float:left;
  	margin-left:20px;
  	padding:-2px;
+ 	width: 20%;
 
 
  }
 
- .nameoncard{
- 	margin-left: 20px;
+ .submit{
+ 	
+ 	width: 30px;
+    margin-left: 20px;
+
  }
+
+ .whitespace{
+ 	height: 350px;
+ }
+
+ // .nameoncard{
+ // 	margin-left: 20px;
+ // }
 

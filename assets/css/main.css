@@ -85,6 +85,10 @@ h1 {
   .copy button {
     margin-top: 20px; }
 
+.form-group {
+  width: 33%;
+  margin-left: 20px; }
+
 .address {
   width: 500px;
   float: left; }
@@ -92,9 +96,14 @@ h1 {
 .address2 {
   float: left;
   margin-left: 20px;
-  padding: -2px; }
+  padding: -2px;
+  width: 20%; }
 
-.nameoncard {
+.submit {
+  width: 30px;
   margin-left: 20px; }
+
+.whitespace {
+  height: 350px; }
 
 /*# sourceMappingURL=main.css.map */
